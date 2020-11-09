@@ -13,6 +13,14 @@ let kwOne: keywordDetail = {
     contentVer: 1,
     contentSentToTarget: 0};
 
+
+ let kwTwo: keywordDetail = { 
+        keywordName: 'notTest',
+        contentCount: 1,
+        contentProv: 0,
+        contentVer: 1,
+        contentSentToTarget: 0};
+
 //list: array with keys equals to objects' keywordName
 let list: Array<keywordDetail> = []
 
